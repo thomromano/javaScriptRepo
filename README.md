@@ -1,4 +1,8 @@
-# How to use this repo
+# JavaScript Repository
+---
+A set of starter files
+
+## How to use this repo
 
 1. npm i
 
